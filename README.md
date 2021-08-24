@@ -6,7 +6,7 @@ git clone https://github.com/zhangfeng1105/pyenv.git  ~/.pyenv
 
 * 安装 pyenv-virtualenv
 
->将放入.pyenv/plugins下 
+  >将放入.pyenv/plugins下 
 
 git clone https://github.com/zhangfeng1105/pyenv-virtualenv.git $(pyenv root)/plugins/pyenv-virtualenv
 
